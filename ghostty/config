@@ -1,0 +1,22 @@
+# --- Aparência ---
+font-family = "JetBrains Mono"
+font-size = 13.0
+background = 282c34
+foreground = ffffff
+
+# Transparência
+background-opacity = 0.96
+
+# Cursor
+shell-integration-features = no-cursor
+cursor-style = underline
+cursor-color = "#7aa2f7"
+
+# Título da janela
+window-theme = ghostty
+title = ""
+
+# Número de linhas no buffer de scrollback
+scrollback-limit = 1000
+
+quick-terminal-size = 400px,600px
